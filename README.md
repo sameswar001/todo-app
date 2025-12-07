@@ -24,16 +24,10 @@ A simple and efficient task management application built with **Streamlit** that
    cd todo-app
    ```
 
-2. **Install dependencies:**
+2. **Install dependencies using uv:**
 
    ```bash
-   pip install -r requirements.txt
-   ```
-
-   Or if using pyproject.toml:
-
-   ```bash
-   pip install -e .
+   uv sync
    ```
 
 ## Usage
