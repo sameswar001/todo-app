@@ -48,4 +48,4 @@ typing_extensions==4.12.2
 urllib3==2.3.0
 uv==0.9.8
 wcwidth==0.2.14
-streamlit>=1.52.1
+streamlit==1.52.1
